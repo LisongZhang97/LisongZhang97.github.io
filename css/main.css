@@ -1751,7 +1751,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff827f;
+  background: #ff2eff;
 }
 .feed-link,
 .chat {
@@ -2700,15 +2700,16 @@ hr {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 body {
-  background: url("https://source.unsplash.com/user/erondu/1600*900");
+  background: url("/images/simple_2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 50% 50%;
+  background-position: 60% 50%;
+  background-size: 100% 95%;
 }
 .main-inner {
   margin-top: 60px;
   padding: 60px 60px 60px 60px;
-  background: #fff;
+  background: #ddd;
   opacity: 0.9;
   min-height: 500px;
 }
